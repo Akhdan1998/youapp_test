@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "150051385101",
+    "project_id": "youapp-85d8c",
+    "storage_bucket": "youapp-85d8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150051385101:android:8f585408bdf12dfcc28a44",
+        "android_client_info": {
+          "package_name": "com.youapp.youapp_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVoIVOD8dIrauQoqoyQ2WtcAK1E5Mp4QU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
